@@ -1,0 +1,697 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 940px;
+	 height: 1200px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer9 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 940px;
+	 height: 1200px;
+	 z-index:1;
+} 
+
+ #Layer40 
+{ 
+	 left: -115px; 
+	 top: -3px; 
+	 position: absolute; 
+	 width: 1024px;
+	 height: 1157px;
+	 z-index:2;
+} 
+
+ #Layer44 
+{ 
+	 left: 657px; 
+	 top: 688px; 
+	 position: absolute; 
+	 width: 212px;
+	 height: 233px;
+	 z-index:3;
+} 
+
+ #Layer59 
+{ 
+	 left: 0px; 
+	 top: 255px; 
+	 position: absolute; 
+	 width: 1054px;
+	 height: 1627px;
+	 z-index:4;
+} 
+
+ #Layer63 
+{ 
+	 left: -516px; 
+	 top: -20px; 
+	 position: absolute; 
+	 width: 2079px;
+	 height: 1174px;
+	 z-index:5;
+} 
+
+ #Layer23 
+{ 
+	 left: 5px; 
+	 top: -127px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 215px;
+	 z-index:6;
+} 
+
+ #Layer14copy 
+{ 
+	 left: -116px; 
+	 top: -71px; 
+	 position: absolute; 
+	 width: 1184px;
+	 height: 737px;
+	 z-index:7;
+} 
+
+ #Layer26 
+{ 
+	 left: 41px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 784px;
+	 height: 418px;
+	 z-index:8;
+} 
+
+ #Layer27 
+{ 
+	 left: 825px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 233px;
+	 z-index:9;
+} 
+
+ #LineageIItheChronicl 
+{ 
+	 left: 286px; 
+	 top: 1179px; 
+	 position: absolute; 
+	 width: 424px;
+	 height: 12px;
+	 z-index:10;
+} 
+
+ #Alltherightsbelongto 
+{ 
+	 left: 359px; 
+	 top: 1166px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 6px;
+	 z-index:11;
+} 
+
+ #DesignedbyxDraccopy 
+{ 
+	 left: 404px; 
+	 top: 1077px; 
+	 position: absolute; 
+	 width: 167px;
+	 height: 28px;
+	 z-index:12;
+} 
+
+ #DesignedbyxDraccopy2 
+{ 
+	 left: 404px; 
+	 top: 1077px; 
+	 position: absolute; 
+	 width: 167px;
+	 height: 28px;
+	 z-index:13;
+} 
+
+ #DesignedbyxDrac 
+{ 
+	 left: 414px; 
+	 top: 1087px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 8px;
+	 z-index:14;
+} 
+
+ #Layer46 
+{ 
+	 left: -50px; 
+	 top: 160px; 
+	 position: absolute; 
+	 width: 1078px;
+	 height: 1055px;
+	 z-index:15;
+} 
+
+ #Layer61 
+{ 
+	 left: 118px; 
+	 top: 296px; 
+	 position: absolute; 
+	 width: 708px;
+	 height: 842px;
+	 z-index:16;
+} 
+
+ #Layer60 
+{ 
+	 left: 309px; 
+	 top: 887px; 
+	 position: absolute; 
+	 width: 357px;
+	 height: 94px;
+	 z-index:17;
+} 
+
+ #BringbacktheMemories 
+{ 
+	 left: 364px; 
+	 top: 896px; 
+	 position: absolute; 
+	 width: 151px;
+	 height: 12px;
+	 z-index:18;
+} 
+
+ #Rememberthegoodoldda 
+{ 
+	 left: 381px; 
+	 top: 908px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 19px;
+	 z-index:19;
+} 
+
+ #27thJune 
+{ 
+	 left: 333px; 
+	 top: 931px; 
+	 position: absolute; 
+	 width: 74px;
+	 height: 23px;
+	 z-index:20;
+} 
+
+ #Doyourememberthegood 
+{ 
+	 left: 310px; 
+	 top: 887px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 117px;
+	 z-index:21;
+} 
+
+ #Layer55 
+{ 
+	 left: 404px; 
+	 top: 373px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 86px;
+	 z-index:22;
+} 
+
+ #Wewelcomeyousincerly 
+{ 
+	 left: 305px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 362px;
+	 height: 20px;
+	 z-index:23;
+} 
+
+ #ByElodie 
+{ 
+	 left: 238px; 
+	 top: 844px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 15px;
+	 z-index:24;
+} 
+
+ #ReadMore 
+{ 
+	 left: 637px; 
+	 top: 848px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 16px;
+	 z-index:25;
+} 
+
+ #Therearemanyvariatio 
+{ 
+	 left: 241px; 
+	 top: 507px; 
+	 position: absolute; 
+	 width: 490px;
+	 height: 189px;
+	 z-index:26;
+} 
+
+ #ByxDrac 
+{ 
+	 left: 238px; 
+	 top: 696px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 15px;
+	 z-index:27;
+} 
+
+ #ReadMore_0 
+{ 
+	 left: 637px; 
+	 top: 695px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 16px;
+	 z-index:28;
+} 
+
+ #Itisalongestablished 
+{ 
+	 left: 244px; 
+	 top: 732px; 
+	 position: absolute; 
+	 width: 485px;
+	 height: 101px;
+	 z-index:29;
+} 
+
+ #parchmentback 
+{ 
+	 left: 45px; 
+	 top: 325px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 129px;
+	 z-index:30;
+} 
+
+ #Layer76 
+{ 
+	 left: 45px; 
+	 top: 424px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 35px;
+	 z-index:31;
+} 
+
+ #Password 
+{ 
+	 left: 51px; 
+	 top: 393px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 8px;
+	 z-index:32;
+} 
+
+ #Didyouforget 
+{ 
+	 left: 99px; 
+	 top: 406px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 7px;
+	 z-index:33;
+} 
+
+ #Shape3 
+{ 
+	 left: 91px; 
+	 top: 389px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 16px;
+	 z-index:34;
+} 
+
+ #bullet1 
+{ 
+	 left: 98px; 
+	 top: 396px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 5px;
+	 z-index:35;
+} 
+
+ #Login 
+{ 
+	 left: 51px; 
+	 top: 374px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 10px;
+	 z-index:36;
+} 
+
+ #Shape3copy 
+{ 
+	 left: 91px; 
+	 top: 370px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 16px;
+	 z-index:37;
+} 
+
+ #xDrac 
+{ 
+	 left: 97px; 
+	 top: 375px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 7px;
+	 z-index:38;
+} 
+
+ #Welcome 
+{ 
+	 left: 66px; 
+	 top: 348px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 12px;
+	 z-index:39;
+} 
+
+ #inkblots 
+{ 
+	 left: 66px; 
+	 top: 309px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 160px;
+	 z-index:40;
+} 
+
+ #Layer67 
+{ 
+	 left: 125px; 
+	 top: 422px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 53px;
+	 z-index:41;
+} 
+
+ #parchmentheader 
+{ 
+	 left: 45px; 
+	 top: 320px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 43px;
+	 z-index:42;
+} 
+
+ #Layer68 
+{ 
+	 left: 13px; 
+	 top: 254px; 
+	 position: absolute; 
+	 width: 276px;
+	 height: 337px;
+	 z-index:43;
+} 
+
+ #Login_0 
+{ 
+	 left: 70px; 
+	 top: 419px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 15px;
+	 z-index:44;
+} 
+
+ #Rememberme 
+{ 
+	 left: 101px; 
+	 top: 436px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 7px;
+	 z-index:45;
+} 
+
+ #Shape4 
+{ 
+	 left: 91px; 
+	 top: 437px; 
+	 position: absolute; 
+	 width: 6px;
+	 height: 6px;
+	 z-index:46;
+} 
+
+ #Layer78 
+{ 
+	 left: 92px; 
+	 top: 436px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 6px;
+	 z-index:47;
+} 
+
+ #Checkicon 
+{ 
+	 left: 92px; 
+	 top: 435px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 7px;
+	 z-index:48;
+} 
+
+ #Layer53 
+{ 
+	 left: 218px; 
+	 top: 290px; 
+	 position: absolute; 
+	 width: 535px;
+	 height: 70px;
+	 z-index:49;
+} 
+
+ #Layer54 
+{ 
+	 left: 229px; 
+	 top: 290px; 
+	 position: absolute; 
+	 width: 512px;
+	 height: 70px;
+	 z-index:50;
+} 
+
+ #divider 
+{ 
+	 left: 338px; 
+	 top: 322px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 38px;
+	 z-index:51;
+} 
+
+ #divider2 
+{ 
+	 left: 452px; 
+	 top: 322px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 38px;
+	 z-index:52;
+} 
+
+ #divider3 
+{ 
+	 left: 541px; 
+	 top: 322px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 38px;
+	 z-index:53;
+} 
+
+ #divider4 
+{ 
+	 left: 639px; 
+	 top: 322px; 
+	 position: absolute; 
+	 width: 2px;
+	 height: 38px;
+	 z-index:54;
+} 
+
+ #HomeFeaturesAbout 
+{ 
+	 left: 272px; 
+	 top: 330px; 
+	 position: absolute; 
+	 width: 423px;
+	 height: 26px;
+	 z-index:55;
+} 
+
+ #Layer74 
+{ 
+	 left: 466px; 
+	 top: -45px; 
+	 position: absolute; 
+	 width: 251px;
+	 height: 81px;
+	 z-index:56;
+} 
+
+ #Layer75 
+{ 
+	 left: 445px; 
+	 top: -7px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 84px;
+	 z-index:57;
+} 
+
+ #down 
+{ 
+	 left: 650px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 13px;
+	 z-index:58;
+} 
+
+ #Game 
+{ 
+	 left: 598px; 
+	 top: 7px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 17px;
+	 z-index:59;
+} 
+
+ #online 
+{ 
+	 left: 532px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 48px;
+	 height: 14px;
+	 z-index:60;
+} 
+
+ #Login_1 
+{ 
+	 left: 482px; 
+	 top: 7px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 18px;
+	 z-index:61;
+} 
+
+ #Layer43 
+{ 
+	 left: 774px; 
+	 top: 104px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 332px;
+	 z-index:62;
+} 
+
+ #Layer45 
+{ 
+	 left: 719px; 
+	 top: 537px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 147px;
+	 z-index:63;
+} 
+
+ #Layer81 
+{ 
+	 left: -11px; 
+	 top: 597px; 
+	 position: absolute; 
+	 width: 49px;
+	 height: 228px;
+	 z-index:64;
+} 
+
+ #Layer82 
+{ 
+	 left: -10px; 
+	 top: 263px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 57px;
+	 z-index:65;
+} 
+
+ #Layer83 
+{ 
+	 left: 766px; 
+	 top: 349px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 238px;
+	 z-index:66;
+} 
+
+ #Explorethedepthsofyo 
+{ 
+	 left: 172px; 
+	 top: 149px; 
+	 position: absolute; 
+	 width: 218px;
+	 height: 14px;
+	 z-index:67;
+} 
+
+ #Lineage 
+{ 
+	 left: 39px; 
+	 top: 57px; 
+	 position: absolute; 
+	 width: 400px;
+	 height: 86px;
+	 z-index:68;
+} 
